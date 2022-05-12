@@ -2,10 +2,10 @@
 	<main>
 		<div class="content-wrapper">
 			<div class="content-inner">
-				<h2>Magento 2 Recent Sales Notification Extension</h2>
+				<h1>Magento 2 Recent Sales Notification Extension</h1>
 				<p>With the help of the <strong><a href="https://www.mageants.com/recent-sales-notification-for-magento-2.html">Magento 2 Recent Sales Notification Extension</a>,</strong> the store owner gets a great solution by displaying the sales status to the customers. This is the best way that allows the merchants to encourage the customers to purchase the new trends and most demanding products.</p>
 				<div class="features-wrapper">
-					<h3>Key Features</h3>
+					<h2>Key Features</h2>
 					<ul>
 						<li>Admin allows users to display the information of their current purchase by automatic pop-ups.</li>
 						<li>Helps in displaying the customized trending products.</li>
